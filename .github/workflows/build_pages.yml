@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contenst: read
+  contents: read
   pages: write
   id-token: write
 
